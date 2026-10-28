@@ -1,0 +1,4 @@
+title,price_gbp,rating,in_stock,url
+A Light in the Attic,51.77,3,True,https://books.toscrape.com/catalogue/a-light-in-the-attic_1000/index.html
+Tipping the Velvet,53.74,1,True,https://books.toscrape.com/catalogue/tipping-the-velvet_999/index.html
+Sapiens: A Brief History of Humankind,54.23,5,False,https://books.toscrape.com/catalogue/sapiens-a-brief-history-of-humankind_996/index.html

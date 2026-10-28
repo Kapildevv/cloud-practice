@@ -1,0 +1,6 @@
+pandas
+openpyxl
+pdfplumber
+reportlab
+requests
+beautifulsoup4
